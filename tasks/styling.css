@@ -1,0 +1,325 @@
+.navbar{
+
+background-color:rgb(190, 190, 190);
+height: 50px;
+width: 100%;
+margin: 70px;
+margin-right: 90px;
+
+}
+.logo-name{
+    font-size: 25px;
+    font-weight: bold;
+ line-height: 50px;
+    color: rgb(167, 155, 155);
+    margin: 0;
+    margin-left: 10px;
+    display: inline-block;
+}
+.nav-btns{
+    display: inline-block;
+   float: right;
+    margin-right: 10px;
+    margin-top: 15px;
+
+
+}
+.scratch-buttons{
+    
+background-color:rgb(190, 190, 190);
+
+    border: none;
+    height: 25px;
+    width: 70px;
+    border-radius: 15px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.login-form{
+    margin-top: 150px;
+    margin-left: 550px;
+    font-size: 20px;
+    color: rgb(34, 32, 32);
+
+}
+.login-form input{
+    height: 25px;
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid rgb(226, 225, 225);
+    font-size: 15px;
+
+}
+.login-btn{
+    margin-top: 20px;
+    height: 30px;
+    width: 310px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(91, 129, 255);
+    font-weight: bold;
+    cursor: pointer;
+    color: white;
+
+}
+.task2-part-2{
+    background-color:#59C4A8;
+    height: 100vh;
+}
+.login-form2{
+
+background-color: rgb(255, 255, 255);
+width: 400px;
+margin-left: 250px;
+height: 500px;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+
+}
+.login-form2 input[type="email"], .login-form2 input[type="password"]{
+    display: block;
+    margin: 10px auto;
+    height: 30px;
+    width: 250px;
+    border-color: rgb(215, 218, 219);
+    border-width: 1px;
+  
+
+}
+.login-form2 button{
+    display: block;
+    margin: 20px auto;
+    height: 35px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    background-color:#0faa81;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.login-form2 input{
+    margin: 10px auto;
+    padding: 5px;
+}
+input[type="checkbox"]{
+    margin-left: 70px;
+    height: 10px
+}
+label[for="showpassword"]{
+    font-size: 14px;
+    color: rgb(77, 76, 76);
+}
+.login-form2 h2{
+    text-align: center;
+    color: #0faa81 ;
+    margin-top: 30px;
+    padding : 40px ;
+    padding-bottom: 20px;
+
+}
+.forgot-password-btn{
+    margin-left: 100px;
+    font-size: 14px;
+    color:#119b76;
+    cursor: pointer;
+background-color: white;
+border: none;
+}
+span{
+    margin-left: 120px;
+    font-size: 14px;
+    color: rgb(77, 76, 76);
+}
+.user-login{
+
+
+background-color: rgb(255, 255, 255);
+width: 400px;
+margin-left: 250px;
+height: 370px;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+text-align: center;
+
+
+}
+.user-login h2{
+    color: #000000 ;
+    margin-top: 30px;
+    padding : 40px ;
+    padding-bottom: 20px;
+
+}
+.user-login label{
+    font-size: 18px;
+color: #0faa81;
+    display: block;
+  margin-bottom: 0px;
+    text-align: left;
+    margin-left: 80px;
+}
+.user-login input{
+    margin-bottom: 20px;
+    height: 30px;
+    width: 250px;
+    border-color: rgb(215, 218, 219);
+    border-width: 1px;
+    border-radius: 5px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+
+}
+.user-login input:hover{
+    border-color: #0faa81;
+}
+.user-login input[type="submit"]{
+    background-color:#0faa81;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 25px;
+    height: 50px;
+
+}
+#user-login-forgot-password{
+    margin-left: 0px;
+    font-size: 14px;
+    color:#535353;
+    cursor: pointer;}
+    .sign-up3{
+
+background-color: #8887C5;  
+width: 360px;
+margin-left: 300px;
+
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+border-radius: 20px;
+}
+.sign-up3 form{
+    text-align: center;
+    padding: 15px;
+}
+.sign-up3 h2{
+    color: white ;
+    margin-top: 0px;
+  
+
+}
+.sign-up3 input{
+    margin-bottom: 5px;
+    height: 30px;
+    width: 300px;
+    border-color: rgb(215, 218, 219);
+    border-width: 1px;
+    border-radius: 5px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+
+}
+.sign-up3 input[type="text"]{
+width:145px;    
+margin-left: 5px;
+
+}
+
+.sign-up3 input[type="email"]{
+margin-bottom: 20px;
+margin-top: 10px;
+}
+.sign-up3 input[type="checkbox"]{
+    margin: 0px;
+    margin-top: 5px;
+    height: 15px;
+    width: 15px;
+
+}
+.sign-up3 label{
+    font-size: 10px;
+    color: white;
+    
+    line-height: 30px;
+    
+}
+.sign-up3 button{
+    margin-top: 10px;
+    height: 35px;
+    width: 280px;
+    border-radius: 20px;
+    border: none;
+    background-color: #8F8B86;
+    font-weight: bold;
+    cursor: pointer;
+    color: #857D79;
+
+}
+.sign-up3 a,span{
+    margin-top: 5px;
+    font-size: 12px;
+    color: white;
+    
+    
+    margin: 0px;
+   
+    
+
+}
+.task3part2{
+    background-color:#8400CD;
+    height: 100vh;
+}
+
+.login3{
+    height: 400px;
+width: 600px;
+ margin-top: 50px;
+ margin-left: 100px;
+ background-color: white;
+ border: 1px solid rgb(216, 212, 212);
+
+}
+
+.logo-sec{
+    
+margin-top: 200px;
+display:inline-block;
+
+}
+.image3{display: inline-block;
+border-radius: 100%;
+height: 200px; 
+margin-left: 30px;
+
+}
+.login-form3{
+ display: inline-block;
+ margin-left: 50px;
+ 
+
+}
+.login-form3 input{}
+
+.email-icon, .password-icon{
+    height: 18px;
+    width: 18px;
+   position: relative;
+    margin-right: -30px;
+    margin-top: 5px;
+
+}
+.login-form3 input{
+ 
+    height: 30px;
+    width: 250px;
+    border-color: rgb(215, 218, 219);
+    border-width: 1px;
+    border-radius: 5px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+
+}
